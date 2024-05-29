@@ -27,10 +27,10 @@ async def start(app, message):
     caption = "нɛℓℓσ, мʏ Μᴀsᴛᴇʀ ❣️\nИιcɛ Ƭσ Μɛɛт 𝗬σʋ 🤗 !!\nI ɢʋɛƨƨ, тнαт ʏσʋ κиσω мɛ, Ʋнн ʏσʋ ∂σи'т, иρ..\nƜɛℓℓ.\n\n𝗔 Pᴏᴡᴇʀғᴜʟ 𝗔ƨƨɪᴛᴀɴᴛ \n\n 𝐏ᴏᴡᴇʀᴇᴅ 𝐁ʏ 🦋 [Ɖιcтαтσя](t.me/SAIF_DICTATOR)\n\nYᴏᴜ Cᴀɴ Cʜᴀᴛ Wɪᴛʜ Mʏ Mᴀsᴛᴇʀ Tʜʀᴏᴜɢʜ Tʜɪs Bᴏᴛ.\nIғ Yᴏᴜ Wᴀɴᴛ Yᴏᴜʀ Oᴡɴ Assɪᴛᴀɴᴛ Yᴏᴜ Cᴀɴ Dᴇᴘʟᴏʏ Fʀᴏᴍ Bᴜᴛᴛᴏɴ Bᴇʟᴏᴡ."
     reply_markup = InlineKeyboardMarkup([
         [
-            InlineKeyboardButton("𝐒𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/DEAD_GRPCHAT"),
-            InlineKeyboardButton("𝐂𝗁𝖺𝗇𝗇𝖾𝗅", url="https://t.me/SAIFALLBOT"),
-            InlineKeyboardButton("𝐎𝗐𝗇𝖾𝗋", url="https://t.me/SAIF_DICTATOR"),
-            InlineKeyboardButton("𝐑𝖾𝗉𝗈", url="https://github.com/SAIFDEAD/USERBOT"),
+            InlineKeyboardButton("𝐒𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/ROYAL_WORLD_84"),
+            InlineKeyboardButton("𝐂𝗁𝖺𝗇𝗇𝖾𝗅", url="https://t.me/R_I_S_I_NG"),
+            InlineKeyboardButton("𝐎𝗐𝗇𝖾𝗋", url="https://t.me/ROYAL_WORLD_84"),
+            InlineKeyboardButton("𝐑𝖾𝗉𝗈", url="https://github.com/Sumankumar81547/USERBOTMOHIT"),
         ],
     ])
 
